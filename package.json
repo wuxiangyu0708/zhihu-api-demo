@@ -1,0 +1,16 @@
+{
+    "name": "zhihu-api",
+    "version": "1.0.0",
+    "description": "koa",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "wu",
+    "license": "ISC",
+    "dependencies": {
+        "g": "^2.0.1",
+        "koa": "^2.13.1",
+        "nodemon": "^2.0.7"
+    }
+}
